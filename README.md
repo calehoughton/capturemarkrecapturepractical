@@ -1,0 +1,1 @@
+Using modelling to estimate survival in a house sparrow meta-population dataset. The dataset consists of n=2378 capture observations across different islands in the house sparrow meta-population
